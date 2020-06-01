@@ -11,5 +11,7 @@ Read the article to learn more about it.
 ## Getting started
 
 `> git clone git@github.com:hellosophiee/chat-with-deno-and-preact.git`
+
 `> cd chat-with-deno-and-preact`
+
 `> deno run --allow-net --allow-read server.ts`
