@@ -8,6 +8,8 @@ This is the code used in the article:
 
 Read the article to learn more about it.
 
+![](demo.png)
+
 ## Getting started
 
 `> git clone git@github.com:hellosophiee/chat-with-deno-and-preact.git`
